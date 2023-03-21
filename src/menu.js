@@ -7,7 +7,7 @@ function Menu(props) {
    
     <div id='dish'>
         
-        <img id='dish-image' src={props.categoryImg}></img>
+        <img id='dish-image' src={props.categoryImg} alt={''}></img>
         
         <div id='dish-info'>
           <div id='name-price'>
