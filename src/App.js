@@ -108,6 +108,4 @@ class maincomponent extends React.Component {
   }
 }
 
-
-
 export default maincomponent;
